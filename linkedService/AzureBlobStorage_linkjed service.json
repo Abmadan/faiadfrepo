@@ -1,0 +1,12 @@
+{
+	"name": "AzureBlobStorage_linkjed service",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"serviceEndpoint": "https://abhisa.blob.core.windows.net/",
+			"accountKind": "StorageV2"
+		}
+	}
+}

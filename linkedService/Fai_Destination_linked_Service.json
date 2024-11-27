@@ -1,0 +1,12 @@
+{
+	"name": "Fai_Destination_linked_Service",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"serviceEndpoint": "https://abhisa.blob.core.windows.net/",
+			"accountKind": "StorageV2"
+		}
+	}
+}

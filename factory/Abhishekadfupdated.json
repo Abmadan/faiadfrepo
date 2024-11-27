@@ -1,0 +1,9 @@
+{
+	"name": "Abhishekadfupdated",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "484b56ba-d779-42a8-8e15-5db0203b9eaf",
+		"tenantId": "16b3c013-d300-468d-ac64-7eda0820b6d3"
+	}
+}
